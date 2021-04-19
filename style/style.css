@@ -1,0 +1,12 @@
+.centerItems {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.searchInput {
+  width: 50%;
+  margin-top: 1em;
+}
+/*# sourceMappingURL=style.css.map */
